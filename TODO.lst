@@ -1,0 +1,21 @@
+1. add "redirect_to" to login form.                                     #DONE at 2/4/2011 1:34 am
+2. add "logout" to login page.                                          #DONE at 2/4/2011 12:17 am
+3. add "settings" page.													#DONE at 5/4/2011 04:06 pm
+4. process "extraInfo", "socialNetworks" and "personalPhoto" settings.	#DONE at 5/4/2011 04:07 pm
+5. process and secure "mainInfo" settings.								#DONE (without secure) at 5/4/2011 04:07 pm
+6. add "user" page.														#DONE at 5/4/2011 04:08 pm  (revised)
+7. resolve "redirect_to" problem.										#DONE at 5/4/2011 04:42 pm
+8. redirect all templates to "functions" module.                        #DONE at 7/4/2011 04:30 am
+9. add "user_notices" page.												#DONE at 11/4/2011 06:29 pm
+10. add "user_topics" page.												#DONE at 11/4/2011 09:48 am
+11. add "user_send" page. 												#won't created (11/4/2011 06:31 pm)
+12. add "user_email" page.
+13. add "user_notifications" page.
+14. add "user_reports" page.											#DONE at 11/4/2011 07:43 pm
+15. add "user_comments" page.											#DONE at 11/4/2011 09:11 pm
+16. add "tags" page.
+17. add filter_smileys() function.
+18. add filter_notice() to comments.
+19. clean db file and provide it with descriptions.
+20. modify notices mentions and subscriptions and notifications.
+21. modify comments subscriptions and notifications.
