@@ -1,6 +1,6 @@
 # Egy Fantasy
 
-An unfinished experience with [Okasha](www.ojuba.org/wiki/okasha/) and [Elixir](https://pypi.python.org/pypi/Elixir) to create a political social network to discuss egyptian issues after Jan 25th revolution.
+An unfinished experience with [Okasha](http://www.ojuba.org/wiki/okasha/) and [Elixir](https://pypi.python.org/pypi/Elixir) to create a political social network to discuss egyptian issues after Jan 25th revolution.
 
 It was planned to have virtual political life starting from individuals (people) who support groups (parties) and vote for their thoughts (ideas) and support their leader (president) in a free and transparent elections.
 
